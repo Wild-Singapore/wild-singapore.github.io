@@ -114,6 +114,48 @@ let places = {
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     "bukit-timah-nature-reserve" : {
         "label":"Bukit Timah Nature Reserve",
         "img":"",
