@@ -11948,7 +11948,7 @@
   "inat_id": 1316507,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "whitespotanimaliachordatavertebrataactinopterygiicyprinodontiformesaplocheilidaeaplocheilusarmatus"
 },
 
@@ -11972,7 +11972,7 @@
   "inat_id": 1359879,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "saddlebarbanimaliachordatavertebrataactinopterygiicypriniformescyprinidaebarbodessellifer"
 },
 
@@ -11996,7 +11996,7 @@
   "inat_id": 618877,
   "zone": [],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "forestbettaanimaliachordatavertebrataactinopterygiianabantiformesosphronemidaebettapugnax"
 },
 
@@ -12020,7 +12020,7 @@
   "inat_id": 120494,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "boddart'sbluespottedmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)boleophthalmusboddarti"
 },
 
@@ -12044,7 +12044,7 @@
   "inat_id": 95888,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "pygmyrasboraanimaliachordatavertebrataactinopterygiicypriniformesdanionidaeborarasmaculatus"
 },
 
@@ -12068,7 +12068,7 @@
   "inat_id": 187186,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "NT",
   "search_text": "kabilibumblebeegobyanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae:gobionellinaebrachygobiuskabiliensis"
 },
 
@@ -12092,7 +12092,7 @@
   "inat_id": 1316098,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "dwarfsnakeheadanimaliachordatavertebrataactinopterygiianabantiformeschannidaechannalimbata"
 },
 
@@ -12116,7 +12116,7 @@
   "inat_id": 187221,
   "zone": [],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "forestsnakeheadanimaliachordatavertebrataactinopterygiianabantiformeschannidaechannalucius"
 },
 
@@ -12140,7 +12140,7 @@
   "inat_id": 97280,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "commonsnakeheadanimaliachordatavertebrataactinopterygiianabantiformeschannidaechannastriata"
 },
 
@@ -12164,7 +12164,7 @@
   "inat_id": 55533,
   "zone": [],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "milkfishanimaliachordatavertebrataactinopterygiigonorynchiformeschanidaechanoschanos"
 },
 
@@ -12188,7 +12188,7 @@
   "inat_id": 97926,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "NT",
   "search_text": "commonwalkingcatfishanimaliachordatavertebrataactinopterygiisiluriformesclariidaeclariasbatrachus"
 },
 
@@ -12212,7 +12212,7 @@
   "inat_id": 611728,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "forestwalkingcatfishanimaliachordatavertebrataactinopterygiisiluriformesclariidaeclariasleiacanthus"
 },
 
@@ -12236,7 +12236,7 @@
   "inat_id": 187242,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "slenderwalkingcatfishanimaliachordatavertebrataactinopterygiisiluriformesclariidaeclariasnieuhofii"
 },
 
@@ -12260,7 +12260,7 @@
   "inat_id": 187287,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "beardlessbarbanimaliachordatavertebrataactinopterygiicypriniformescyprinidaecyclocheilichthysapogon"
 },
 
@@ -12284,7 +12284,7 @@
   "inat_id": 466706,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "pygmyhalfbeakanimaliachordatavertebrataactinopterygiibeloniformeszenarchopteridaedermogenyscollettei"
 },
 
@@ -12308,7 +12308,7 @@
   "inat_id": 621545,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "greenspottedpufferfishanimaliachordatavertebrataactinopterygiitetraodontiformestetraodontidaedichotomycterenigroviridis"
 },
 
@@ -12332,7 +12332,7 @@
   "inat_id": 445910,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "squaretailmulletanimaliachordatavertebrataactinopterygiimugiliformesmugilidaeellochelonvaigiensis"
 },
 
@@ -12356,7 +12356,7 @@
   "inat_id": 353564,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "bandedmulletgobyanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae:gobionellinaehemigobiushoevenii"
 },
 
@@ -12380,7 +12380,7 @@
   "inat_id": 1316641,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "NT",
   "search_text": "blueeyedmulletgobyanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae:gobionellinaehemigobiusmelanurus"
 },
 
@@ -12404,7 +12404,7 @@
   "inat_id": 446101,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "foresthalfbeakanimaliachordatavertebrataactinopterygiibeloniformeszenarchopteridaehemirhamphodonpogonognathus"
 },
 
@@ -12428,7 +12428,7 @@
   "inat_id": 103268,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "mangrovepipefishanimaliachordatavertebrataactinopterygiisyngnathiformessyngnathidaeichthyocampuscarce"
 },
 
@@ -12476,7 +12476,7 @@
   "inat_id": 125802,
   "zone": ["marine"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "NT",
   "search_text": "mangrovejackanimaliachordatavertebrataactinopterygiiacanthuriformeslutjanidaelutjanusargentimaculatus"
 },
 
@@ -12500,7 +12500,7 @@
   "inat_id": 187642,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "CR",
   "search_text": "buffbackedspinyeelanimaliachordatavertebrataactinopterygiisynbranchiformesmastacembelidaemacrognathusmaculatus"
 },
 
@@ -12524,7 +12524,7 @@
   "inat_id": 1316096,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "sundaswampeelanimaliachordatavertebrataactinopterygiisynbranchiformessymbranchidaemonopterusjavanensis"
 },
 
@@ -12572,7 +12572,7 @@
   "inat_id": 187724,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "sundaleaffishanimaliachordatavertebrataactinopterygiianabantiformesnandidaenandusnebulosus"
 },
 
@@ -12596,7 +12596,7 @@
   "inat_id": 187752,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "CR",
   "search_text": "greybandedsandloachanimaliachordatavertebrataactinopterygiicypriniformesnemacheilidaenemacheilusselangoricus"
 },
 
@@ -12620,7 +12620,7 @@
   "inat_id": 607860,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "javanesericefishanimaliachordatavertebrataactinopterygiibeloniformesadrianichthyidaeoryziasjavanicus"
 },
 
@@ -12644,7 +12644,7 @@
   "inat_id": 530076,
   "zone": ["marine"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "NT",
   "search_text": "roux'sdwarfgobyanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae:gobionellinaepandakarouxi"
 },
 
@@ -12668,7 +12668,7 @@
   "inat_id": 611900,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "CR",
   "search_text": "spottedeelloachanimaliachordatavertebrataactinopterygiicypriniformescobitidaepangiomuraeniformis"
 },
 
@@ -12692,7 +12692,7 @@
   "inat_id": 361342,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "giantmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)periophthalmodonschlosseri"
 },
 
@@ -12716,7 +12716,7 @@
   "inat_id": 68720,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "silverlinedmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)periophthalmusargentilineatus"
 },
 
@@ -12740,7 +12740,7 @@
   "inat_id": 371694,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "goldspottedmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)periophthalmuschrysospilos"
 },
 
@@ -12764,7 +12764,7 @@
   "inat_id": 461060,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "slendermudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)periophthalmusgracilis"
 },
 
@@ -12788,7 +12788,7 @@
   "inat_id": 326743,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "duskygilledmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)periophthalmusvariabilis"
 },
 
@@ -12812,7 +12812,7 @@
   "inat_id": 356421,
   "zone": [],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "yellowspottedmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)periophthalmuswalailakae"
 },
 
@@ -12836,7 +12836,7 @@
   "inat_id": 110916,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "elongatemudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)pseudapocrypteselongatus"
 },
 
@@ -12860,7 +12860,7 @@
   "inat_id": 188142,
   "zone": ["intertidal","marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "snubnosegobiesanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae:gobionellinaepseudogobiuspoicilosoma"
 },
 
@@ -12884,7 +12884,7 @@
   "inat_id": 552963,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "einthoven'srasboraanimaliachordatavertebrataactinopterygiicypriniformesdanionidaerasboraeinthovenii"
 },
 
@@ -12908,7 +12908,7 @@
   "inat_id": 111562,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "elegantrasboraanimaliachordatavertebrataactinopterygiicypriniformesdanionidaerasboraelegans"
 },
 
@@ -12932,7 +12932,7 @@
   "inat_id": 362471,
   "zone": ["intertidal"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "beardedmudskipperanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae(subfamilyoxudercinaemudskippers)scartelaoshistophorus"
 },
 
@@ -12956,7 +12956,7 @@
   "inat_id": 620855,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "CR",
   "search_text": "hasselt'sleafcatfishanimaliachordatavertebrataactinopterygiisiluriformessiluridaesilurichthyshasseltii"
 },
 
@@ -12980,7 +12980,7 @@
   "inat_id": 614939,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "greyknightgobyanimaliachordatavertebrataactinopterygiigobiiformesoxudercidae:gobionellinaestigmatogobiussadanundio"
 },
 
@@ -13004,7 +13004,7 @@
   "inat_id": 1316238,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "spannerbarbanimaliachordatavertebrataactinopterygiicypriniformescyprinidaestriuntiuslateristriga"
 },
 
@@ -13052,7 +13052,7 @@
   "inat_id": 188583,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "VU",
   "search_text": "threespotgouramianimaliachordatavertebrataactinopterygiianabantiformesosphronemidaetrichopodustrichopterus"
 },
 
@@ -13076,7 +13076,7 @@
   "inat_id": 188586,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "croakinggouramianimaliachordatavertebrataactinopterygiianabantiformesosphronemidaetrichopsisvittata"
 },
 
@@ -13100,7 +13100,7 @@
   "inat_id": 188588,
   "zone": ["freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "EN",
   "search_text": "harlequinrasboraanimaliachordatavertebrataactinopterygiicypriniformesdanionidaetrigonostigmaheteromorpha"
 },
 
@@ -13124,7 +13124,7 @@
   "inat_id": 529477,
   "zone": ["marine","freshwater"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "LC",
   "search_text": "mangrovecardinalfishanimaliachordatavertebrataactinopterygiigobiiformesapogonidaeyaricahyalosoma"
 },
 
@@ -13148,7 +13148,7 @@
   "inat_id": 188625,
   "zone": ["marine"],
   "habitats": null,
-  "rdb": null,
+  "rdb": "DD",
   "search_text": "shortnoserivergarfishanimaliachordatavertebrataactinopterygiibeloniformeszenarchopteridaezenarchopterusgilli,"
 },
 
