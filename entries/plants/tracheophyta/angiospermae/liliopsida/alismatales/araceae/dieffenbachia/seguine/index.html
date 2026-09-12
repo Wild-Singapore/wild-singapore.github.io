@@ -185,7 +185,11 @@
                 
                 </div>
             </div>
-          <div class="species-head-right">
+          <div class="species-head-right" 
+            style="
+            "
+          >
+          <div>
                 <p id="taxa-crumbs">
                     <!-- <a href="/Tracheophyta">Tracheophyta</a>
                     > 
@@ -202,17 +206,12 @@
 
     <p class="scientific-name">Dieffenbachia seguine</p>
 
-
-                <p><em>Updated July 2024</em></p>
-
+                <div style="height:0.5rem;"></div>
                 
+                
+              </div>
+                <p style="margin-bottom:0;font-size: 0.8rem;font-style: italic;opacity: 0.5;text-align: right;">Updated July 2024</p>
 
-                <div class="attributes-row">
-                    
-                </div>
-                <div class="attributes-row" style="gap:1rem">
-                  
-                </div>
           </div>
        
       </section>
@@ -586,14 +585,19 @@ async function buildCrumbsParallel(taxaCrumbContainer) {
   const promises = taxaCrumbs.map(async (t, i) => {
     try {
       const response = await fetch(host + t, { method: 'HEAD' });
-      let crumb = response.ok 
-        ? `<a href="${t}">${t.split('/').at(-1)}</a>`
-        : `<span>${t.split('/').at(-1)}</span>`;
-        
-      if (i < taxaCrumbs.length - 1) crumb += " > ";
+      let crumb = "";
+      if(response.ok){
+        crumb = response.ok 
+          ? `<a href="${t}">${t.split('/').at(-1)}</a>`
+          : "" //`<span>${t.split('/').at(-1)}</span>`;
+          
+        if (i < taxaCrumbs.length - 1) crumb += " > ";
+
+      }
       return crumb;
     } catch (err) {
-      return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+      // return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+      return "";
     }
   });
 

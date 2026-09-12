@@ -189,7 +189,11 @@
                 
                 </div>
             </div>
-          <div class="species-head-right">
+          <div class="species-head-right" 
+            style="
+            "
+          >
+          <div>
                 <p id="taxa-crumbs">
                     <!-- <a href="/Mollusca">Mollusca</a>
                     > 
@@ -206,37 +210,59 @@
 
     <p class="scientific-name">Chicoreus ramosus</p>
 
-
-                <p><em>Updated Feb 2020</em></p>
-
+                <div style="height:0.5rem;"></div>
                 
-                <p>
-                    
-                    20.0
-                    
-                        - 30.0
-                    
-                    cm
-                </p>
-                
+                <div style="
+                  display:flex;
+                  flex-wrap:wrap;
+                  align-items: top;
+                  gap:2rem;
+                  margin-bottom: 1rem;;
+                ">
+                  
+                    <div>
+                      <h3>SIZE</h3>
+                      <p>
+                          
+                          20.0
+                          
+                              - 30.0
+                          
+                          cm
+                      </p>
+                    </div>
+                  
 
-                <div class="attributes-row">
-                    
-                        <div class="attribute">
-                            <div class="redlist NT">NT</div>
-                            <p>RDB3</p>
-                        </div>
-                    
-                </div>
-                <div class="attributes-row" style="gap:1rem">
                   
-                    
-                    <a href="/wildfacts/concepts/habitats/coral-reef" class="attribute">
-                        <div class="attribute-icon custom-icon icon-coral-reef"></div>
-                    </a>
-                    
+                    <div>
+                      <h3>status</h3>
+                      <div class="attributes-row">
+                              <div class="attribute">
+                                  <div class="redlist NT">NT</div>
+                                  <p>RDB3</p>
+                              </div>
+                      </div>
+                    </div>
                   
                 </div>
+                
+                
+                <div style="margin-bottom: 1rem;">
+                  <h3>habitats</h3>
+                  <div class="attributes-row" style="gap:1rem">
+                    
+                      
+                      <a href="/wildfacts/concepts/habitats/coral-reef" class="attribute">
+                          <div class="attribute-icon custom-icon icon-coral-reef"></div>
+                      </a>
+                      
+                    
+                  </div>
+                </div>
+                
+              </div>
+                <p style="margin-bottom:0;font-size: 0.8rem;font-style: italic;opacity: 0.5;text-align: right;">Updated Feb 2020</p>
+
           </div>
        
       </section>
@@ -664,14 +690,19 @@ async function buildCrumbsParallel(taxaCrumbContainer) {
   const promises = taxaCrumbs.map(async (t, i) => {
     try {
       const response = await fetch(host + t, { method: 'HEAD' });
-      let crumb = response.ok 
-        ? `<a href="${t}">${t.split('/').at(-1)}</a>`
-        : `<span>${t.split('/').at(-1)}</span>`;
-        
-      if (i < taxaCrumbs.length - 1) crumb += " > ";
+      let crumb = "";
+      if(response.ok){
+        crumb = response.ok 
+          ? `<a href="${t}">${t.split('/').at(-1)}</a>`
+          : "" //`<span>${t.split('/').at(-1)}</span>`;
+          
+        if (i < taxaCrumbs.length - 1) crumb += " > ";
+
+      }
       return crumb;
     } catch (err) {
-      return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+      // return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+      return "";
     }
   });
 
